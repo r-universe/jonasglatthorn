@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "APAtree"]
+	path = APAtree
+	url = https://github.com/jonasglatthorn/apatree
+	shallow = true
+	registered = true
